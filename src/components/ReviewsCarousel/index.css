@@ -1,0 +1,21 @@
+.mainDiv {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+}
+.subDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  color: white;
+}
+.buttonCon {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+.btnn {
+  background-color: transparent;
+  border-width: 0px;
+}
